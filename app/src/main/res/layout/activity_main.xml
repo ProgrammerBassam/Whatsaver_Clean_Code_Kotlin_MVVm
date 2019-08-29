@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        app:theme="@style/ActionBarThemeOverlay"
+        app:popupTheme="@style/ActionBarPopupThemeOverlay"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        app:titleTextAppearance="@style/ActionBar.TitleText"
+        app:subtitle="Subtitle"
+        app:title="@string/app_name"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:navigationIcon="@drawable/ic_home"
+        app:subtitleTextAppearance="@style/ActionBar.SubTitleText">
+
+
+            <io.ghyeok.stickyswitch.widget.StickySwitch
+                android:id="@+id/mStickyType"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_gravity="end"
+                android:layout_centerInParent="true"
+                app:ss_animationDuration="400"
+                app:ss_iconPadding="12dp"
+                app:ss_iconSize="14dp"
+                android:layout_centerVertical="true"
+                app:ss_leftIcon="@drawable/ic_image"
+                app:ss_rightIcon="@drawable/ic_video_green"
+                app:ss_sliderBackgroundColor="#EEE"
+                app:ss_switchColor="@color/colorPrimaryDark"
+
+                app:ss_animationType="line"/>
+
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.bbalabsi.whatsaver.utils.HalfWidthView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:id="@+id/mRecyclerView"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:orientation="horizontal"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"/>
+
+    </FrameLayout>
+
+
+
+    <FrameLayout
+        android:id="@+id/frmHomeContainer"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <include
+        android:id="@+id/mAdView"
+        layout="@layout/layout_ads"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"/>
+
+
+    <com.bbalabsi.base.widgets.BaseBottomNavigationView
+        android:id="@+id/bottomNavigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        app:itemIconTint="@drawable/bottom_selector"
+        app:itemTextColor="@drawable/bottom_selector"
+        app:menu="@menu/bottom_navigation_menu" />
+
+
+
+</LinearLayout>

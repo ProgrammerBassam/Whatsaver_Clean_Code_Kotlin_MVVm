@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Whatsaver</string>
+
+
+    <string name="internet_first_time_string">check your internet connection!!</string>
+    <string name="need_internet_string">Sorry we need internet to complete the process!</string>
+    <string name="privacy_policy_string" translatable="false">https://www.whatstickersapi.website/privacy_policy.html</string>
+    <string name="not_enough_points_string">Minimum points is 300</string>
+    <string name="share_string">Share App</string>
+    <string name="done_string">Done!!</string>
+    <string name="policy_privacy_string">Policy Privacy</string>
+    <string name="contact_us_string">WhatsApp Me</string>
+    <string name="about_contact_us">Contact Us</string>
+    <string name="about_us_string">About us</string>
+    <string name="about_twitter">Follow us on Twitter</string>
+    <string name="about_github">Follow us on Github</string>
+    <string name="adver_string">Click on Contact Us For more details</string>
+    <string name="about_desc_string" translatable="false">مطور تطبيقات اندرويد ولدي خبرة كافيه في هذا المجال واقوم بعمل مشاريع تجاريه ومشاريع لطلاب التخرج</string>
+
+    <string name="my_points_string">Points : </string>
+    <string name="version_string">Version</string>
+    <string name="ads_with_us_string">Advertise with us</string>
+    <string name="connect_with_us_string">Connect with us</string>
+
+    <string name="home_string">Home</string>
+    <string name="points_string">Points</string>
+    <string name="settings_string">Settings</string>
+
+    <string-array name="ads_titls_array">
+        <item>WWCD</item>
+        <item>Whatsapp Sitckers</item>
+    </string-array>
+
+    <string-array name="ads_detials_array">
+        <item>WWCD for pubg</item>
+        <item>new stickers every day</item>
+    </string-array>
+
+    <string-array name="ads_urls_array">
+        <item>https://play.google.com/store/apps/details?id=com.bassamandfadi.ccwd</item>
+        <item>https://play.google.com/store/apps/details?id=com.bbalabsi.stickersapp</item>
+    </string-array>
+
+    <string name="enable_notification_title_string">Enable message notifications</string>
+    <string name="enable_notification_description_string">You will get 50 point every time you receive a notification</string>
+
+    <string name="send_feedback_title_string">Send feedback</string>
+    <string name="send_feedback_description_string">Report technical issues or suggest new features, you will get 20 points</string>
+
+    <string name="permission_denied_string">If you reject permission,you can not use this service\n\nPlease turn on permissions at [Setting] > [Permission]</string>
+    <string name="permission_body_string">we need permission for read/save status from you whatsapp</string>
+
+    <string name="setting_string">Setting</string>
+
+    <string name="recent_string">Recent</string>
+    <string name="saved_string">Saved</string>
+    <string name="share_using_string">Share Using</string>
+    <string name="open_using_string">Open Using</string>
+
+    <string name="folder_name_string" translatable="false">WhatsaverS</string>
+
+    <string name="rate_dialog_title">Rate this app</string>
+    <string name="rate_dialog_message">If you enjoy playing this app, would you mind taking a moment to rate it? It won\'t take more than a minute. Thanks for your support!</string>
+    <string name="rate_dialog_ok">Rate It Now</string>
+    <string name="rate_dialog_cancel">Remind Me Later</string>
+    <string name="rate_dialog_no">No, Thanks</string>
+
+    <string name="whatsapp_open_error_string">You should have Whatsapp on your phone!</string>
+
+    <string name="check_out_string">Hey check out my app at: </string>
+
+    <string name="points_description_string">1 - You will earn 50 point every time you watch the reward ad \n\n\n 2 - You can remove ads from the app for one week if you have 300 points</string>
+    <string name="action_refresh_string">Refresh</string>
+
+    <string name="show_ads_string">Add 50 Points</string>
+    <string name="remove_ads_string">Remove Ads</string>
+
+    <string name="whatsapp_number_string" translatable="false">967774083394</string>
+
+    <string name="admob_pubisher_id_string" translatable="false">pub-2338165942707057</string>
+    <string name="admob_app_id_string" translatable="false">ca-app-pub-2338165942707057~1286276371</string>
+    <string name="admob_banner_unit_string" translatable="false">ca-app-pub-2338165942707057/7265415262</string>
+    <string name="admob_inter_unit_string" translatable="false">ca-app-pub-2338165942707057/2205919453</string>
+    <string name="admob_reward_unit_string" translatable="false">ca-app-pub-2338165942707057/6276688068</string>
+
+    <string name="startapp_id_string" translatable="false">206961349</string>
+</resources>

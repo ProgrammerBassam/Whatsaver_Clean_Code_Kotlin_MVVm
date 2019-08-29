@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/share_item"
+        app:showAsAction="never"
+        android:title="@string/share_string" />
+
+
+    <item android:id="@+id/policy_privacy_item"
+        app:showAsAction="never"
+        android:title="@string/policy_privacy_string" />
+
+    <item android:id="@+id/whatsapp_me_item"
+        app:showAsAction="never"
+        android:title="@string/contact_us_string" />
+
+    <item android:id="@+id/about_us_item"
+        app:showAsAction="never"
+        android:title="@string/about_us_string" />
+
+
+</menu>

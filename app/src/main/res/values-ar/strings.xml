@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">واتسايفر</string>
+
+    <string-array name="ads_titls_array">
+        <item>WWCD</item>
+        <item>ملصقات واتساب</item>
+    </string-array>
+
+    <string-array name="ads_detials_array">
+        <item>تحديث لاخر اخبار لعبة ببجي</item>
+        <item>ملصقات جديدة كل يوم</item>
+    </string-array>
+
+    <string-array name="ads_urls_array">
+        <item>https://play.google.com/store/apps/details?id=com.bassamandfadi.ccwd</item>
+        <item>https://play.google.com/store/apps/details?id=com.bbalabsi.stickersapp</item>
+    </string-array>
+    <string name="adver_string">إضغط على تواصل معنا لمزيد من التفاصيل</string>
+    <string name="ads_with_us_string">أعلن معنا</string>
+    <string name="action_refresh_string">تحديث</string>
+    <string name="about_us_string">من نحن</string>
+    <string name="about_twitter">تابعنا على تويتر</string>
+    <string name="about_github">تابعنا على الجيت هب</string>
+    <string name="about_contact_us">تواصل معنا</string>
+    <string name="check_out_string">"أهلاً قم بتنزيل هذا التطبيق المميز: "</string>
+    <string name="connect_with_us_string">تواصل معنا</string>
+    <string name="contact_us_string">راسلني على الواتس</string>
+    <string name="done_string">تم!!</string>
+    <string name="enable_notification_description_string">ستحصل على 50 نقطة كل مره تستقبل فيها إشعار</string>
+    <string name="enable_notification_title_string">تفعيل الإشعارات</string>
+    <string name="home_string">الرئيسية</string>
+    <string name="internet_first_time_string">تفحص إتصال الإنترنيت لديك!!</string>
+    <string name="my_points_string">"النقاط : "</string>
+    <string name="need_internet_string">عذراً نحتاج إلى الإتصال بالإنترنيت لإتمام العملية</string>
+    <string name="not_enough_points_string">تحتاج  300 نقطة على أقل تقدير</string>
+    <string name="open_using_string">فتح بإستخدام</string>
+    <string name="permission_body_string">نحتاج إلى الاذن لقراءة وحفظ الحالات</string>
+    <string name="permission_denied_string">إذا رفضت إعطاء الإذن لن تستطيع أن تكون قادر على إستخدام التطبيق الرجاء إعطاء الأذونات المطلوبة</string>
+    <string name="points_description_string">1 - ستحصل على 50 نقطة عند مشاهدة الإعلان   \\n\\n 2 - يمكنك حذف الإعلانات من التطبيق لمدة إسبوع بمقابل 300 نقطة</string>
+    <string name="points_string">النقاط</string>
+    <string name="policy_privacy_string">سياسة الخصوصية</string>
+    <string name="rate_dialog_cancel">ذكرني لاحقاً</string>
+    <string name="rate_dialog_message">إذا إعجبك التطبيق، هل من الممكن ان تقوم بتقييمنا على المتجر؟، شكراً لكم</string>
+    <string name="rate_dialog_no">لا، شكراً</string>
+    <string name="rate_dialog_ok">قم يتقييمنا الان</string>
+    <string name="rate_dialog_title">قيم هذا التطبيق</string>
+    <string name="recent_string">الحالات الجديدة</string>
+    <string name="remove_ads_string">حذف الإعلانات</string>
+    <string name="saved_string">الحالات المحفوظة</string>
+    <string name="send_feedback_description_string">أبلغ عن اي مشكلة تقنية او إقترح لمت خصائص جديد، ستحصل على 20 نقطة</string>
+    <string name="send_feedback_title_string">أرسل ملاحظاتك</string>
+    <string name="setting_string">إعدادات</string>
+    <string name="settings_string">الإعدادات</string>
+    <string name="share_string">شارك التطبيق</string>
+    <string name="share_using_string">مشاركة بإستخدام</string>
+    <string name="show_ads_string">أضف 50 نقطة</string>
+    <string name="version_string">إصدار</string>
+    <string name="whatsapp_open_error_string">يجب أن يكون لديك تطبيق الواتساب في هاتفك!</string>
+
+
+</resources>

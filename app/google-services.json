@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "924037774862",
+    "firebase_url": "https://whatsaver-6e9de.firebaseio.com",
+    "project_id": "whatsaver-6e9de",
+    "storage_bucket": "whatsaver-6e9de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924037774862:android:84eec45c39c3fa9e",
+        "android_client_info": {
+          "package_name": "com.bbalabsi.whatsaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924037774862-u94ftbm40v9j2cc6t3bsms0i6maj21sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtoaViiYiyj6UaFwsmZ7w6BJRu2D4Ih9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924037774862-u94ftbm40v9j2cc6t3bsms0i6maj21sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
